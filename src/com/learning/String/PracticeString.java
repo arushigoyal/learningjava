@@ -8,6 +8,7 @@ public class PracticeString {
         String s3 = new String("This is a SONg");
 
         System.out.println(s1==s2);
+
         System.out.println(s1.equals(s3));
         System.out.println(s1.equalsIgnoreCase(s3));
 
