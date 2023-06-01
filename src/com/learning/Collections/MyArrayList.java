@@ -4,7 +4,7 @@ package com.learning.Collections;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Main {
+public class MyArrayList {
 
     public static void main(String[] args) {
 
